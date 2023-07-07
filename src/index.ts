@@ -81,6 +81,8 @@ export default async function (context: PresetContext): Promise<PresetAsset> {
         format: "cjs",
         bundle: true,
         platform: "node",
+        mainFields: ["main", "module"],
+        conditions: ["require"],
       },
     },
     variable: DEFAULT_VARIABLE,
