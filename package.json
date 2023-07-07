@@ -19,6 +19,7 @@
         "semantic-release": "semantic-release"
     },
     "dependencies": {
+        "esbuild": "^0.18.11",
         "read-pkg": "^8.0.0",
         "semantic-release": "^21.0.7"
     },
