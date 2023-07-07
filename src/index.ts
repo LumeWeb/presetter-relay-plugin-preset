@@ -76,7 +76,7 @@ export default async function (context: PresetContext): Promise<PresetAsset> {
         },
       },
       "esbuild": {
-        entryPoints: ["{source}/index.ts"],
+        entryPoints: ["{source}/index.js"],
         outfile: `{output}/${name}.js`,
         format: "cjs",
         bundle: true,
