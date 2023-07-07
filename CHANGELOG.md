@@ -1,3 +1,10 @@
+# [0.1.0-develop.8](https://git.lumeweb.com/LumeWeb/presetter-relay-plugin-preset/compare/v0.1.0-develop.7...v0.1.0-develop.8) (2023-07-07)
+
+
+### Bug Fixes
+
+* set esbuild mainFields and conditions to prioritize cjs ([b1d4070](https://git.lumeweb.com/LumeWeb/presetter-relay-plugin-preset/commit/b1d407019364186a82660b93381d46205d4c82fe))
+
 # [0.1.0-develop.7](https://git.lumeweb.com/LumeWeb/presetter-relay-plugin-preset/compare/v0.1.0-develop.6...v0.1.0-develop.7) (2023-07-07)
 
 # [0.1.0-develop.6](https://git.lumeweb.com/LumeWeb/presetter-relay-plugin-preset/compare/v0.1.0-develop.5...v0.1.0-develop.6) (2023-07-07)
