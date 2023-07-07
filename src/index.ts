@@ -51,7 +51,7 @@ export default async function (context: PresetContext): Promise<PresetAsset> {
   }
 
   return {
-    extends: ["@lumeweb/node-library-preset", "presetter-preset-strict"],
+    extends: ["@lumeweb/node-library-preset"],
     template: {
       "build.js": (context) => {
         const content = loadFile(resolve(TEMPLATES, "build.js"), "text");

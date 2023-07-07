@@ -10,7 +10,6 @@
             "dependencies": {
                 "@lumeweb/node-library-preset": "^0.2.7",
                 "esbuild": "^0.18.11",
-                "presetter-preset-strict": "^4.0.1",
                 "read-pkg": "^8.0.0",
                 "semantic-release": "^21.0.7"
             },
