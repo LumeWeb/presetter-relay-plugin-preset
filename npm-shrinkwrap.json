@@ -1,12 +1,12 @@
 {
     "name": "@lumeweb/presetter-relay-plugin-preset",
-    "version": "0.1.0",
+    "version": "0.1.0-develop.1",
     "lockfileVersion": 3,
     "requires": true,
     "packages": {
         "": {
             "name": "@lumeweb/presetter-relay-plugin-preset",
-            "version": "0.1.0",
+            "version": "0.1.0-develop.1",
             "dependencies": {
                 "esbuild": "^0.18.11",
                 "read-pkg": "^8.0.0",
