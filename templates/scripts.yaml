@@ -1,0 +1,6 @@
+# replace the `prepare` template from presetter-preset
+# so that the build procedure will not be triggered upon package installation
+build: cross-env NODE_ENV=production run-s clean  build:typescript:* build:esbuild
+build:esbuild: node build.js
+develop: cross-env NODE_ENV=development run-s "build:esbuild -- --watch {@}" --
+clean:buildOutput: shx rm -rf {source}
