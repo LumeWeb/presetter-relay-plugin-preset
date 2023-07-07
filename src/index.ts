@@ -83,5 +83,6 @@ export default async function (context: PresetContext): Promise<PresetAsset> {
         platform: "node",
       },
     },
+    variable: DEFAULT_VARIABLE,
   };
 }
