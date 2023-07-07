@@ -1,3 +1,10 @@
+# [0.1.0-develop.4](https://git.lumeweb.com/LumeWeb/presetter-relay-plugin-preset/compare/v0.1.0-develop.3...v0.1.0-develop.4) (2023-07-07)
+
+
+### Bug Fixes
+
+* index file is js not ts ([d5b4877](https://git.lumeweb.com/LumeWeb/presetter-relay-plugin-preset/commit/d5b48773a98b0eca99bea8f03ac867bd10eeb0f7))
+
 # [0.1.0-develop.3](https://git.lumeweb.com/LumeWeb/presetter-relay-plugin-preset/compare/v0.1.0-develop.2...v0.1.0-develop.3) (2023-07-07)
 
 
