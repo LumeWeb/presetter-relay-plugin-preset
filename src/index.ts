@@ -84,6 +84,11 @@ export default async function (context: PresetContext): Promise<PresetAsset> {
         mainFields: ["main", "module"],
         conditions: ["require"],
       },
+      "release": {
+        plugins: {
+          3: ["@semantic-release/npm", { npmPublish: false }],
+        },
+      },
     },
     variable: DEFAULT_VARIABLE,
   };
