@@ -1,3 +1,10 @@
+# [0.1.0-develop.9](https://git.lumeweb.com/LumeWeb/presetter-relay-plugin-preset/compare/v0.1.0-develop.8...v0.1.0-develop.9) (2023-07-09)
+
+
+### Bug Fixes
+
+* add npmPublish override to semantic release ([118c9a4](https://git.lumeweb.com/LumeWeb/presetter-relay-plugin-preset/commit/118c9a435f09afea1c2cd7015f4efd2b78350147))
+
 # [0.1.0-develop.8](https://git.lumeweb.com/LumeWeb/presetter-relay-plugin-preset/compare/v0.1.0-develop.7...v0.1.0-develop.8) (2023-07-07)
 
 
